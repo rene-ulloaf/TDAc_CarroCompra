@@ -1,0 +1,2 @@
+1	producto_1	50
+4	producto_sin_nombre	344

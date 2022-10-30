@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1315605566 source:h:\programacion\c\laboratorio2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1319565556 h:\programacion\c\laboratorio2\menu.h
+
+1319479442 h:\programacion\c\laboratorio2\recursos.h
+
+1319562091 source:h:\programacion\c\laboratorio2\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"recursos.h"
+
+1319565925 source:h:\programacion\c\laboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"main.h"
+	"productos.h"
+	"carro_compra.h"
+	"estructuras.h"
+	"TDAListaProd.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+	"menu.h"
+
+1319466175 h:\programacion\c\laboratorio2\main.h
+	"estructuras.h"
+
+1319558602 source:h:\programacion\c\laboratorio2\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"productos.h"
+	"estructuras.h"
+	"TDAListaProd.h"
+	"menu.h"
+	"recursos.h"
+
+1319575759 h:\programacion\c\laboratorio2\productos.h
+	"estructuras.h"
+
+1319471764 h:\programacion\c\laboratorio2\estructuras.h
+
+1318537116 h:\programacion\c\laboratorio2\tdalista.h
+
+1318538118 source:h:\programacion\c\laboratorio2\tdalista.c
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"TDALista.h"
+	"recursos.h"
+
+1319602003 source:f:\u\laboratorio2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"main.h"
+	"productos.h"
+	"carro_compra.h"
+	"estructuras.h"
+	"TDAListaProd.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+	"menu.h"
+
+1319466176 f:\u\laboratorio2\main.h
+	"estructuras.h"
+
+1319479444 f:\u\laboratorio2\recursos.h
+
+1319565558 f:\u\laboratorio2\menu.h
+
+1319601930 f:\u\laboratorio2\productos.h
+	"estructuras.h"
+
+1315605566 source:f:\u\laboratorio2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"recursos.h"
+
+1319603755 source:f:\u\laboratorio2\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"productos.h"
+	"estructuras.h"
+	"TDAListaProd.h"
+	"menu.h"
+	"recursos.h"
+
+1319471766 f:\u\laboratorio2\estructuras.h
+
+1318022560 f:\u\laboratorio2\tdalista.h
+
+1319600635 source:f:\u\laboratorio2\recursos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"recursos.h"
+
+1318022767 source:f:\u\laboratorio2\tdalista.c
+	<stdlib.h>
+	"estructuras.h"
+	"TDALista.h"
+	"recursos.h"
+
+1319575080 source:h:\programacion\c\laboratorio2\tdalistacarrocompra.c
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+
+1319470987 h:\programacion\c\laboratorio2\tdalistaprod.h
+
+1319574947 source:h:\programacion\c\laboratorio2\tdalistaprod.c
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"TDAListaProd.h"
+	"recursos.h"
+
+1319575599 source:h:\programacion\c\laboratorio2\carro_compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"carro_compra.h"
+	"productos.h"
+	"TDAListaProd.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+	"menu.h"
+
+1319575747 h:\programacion\c\laboratorio2\carro_compra.h
+	"estructuras.h"
+
+1319227430 h:\programacion\c\laboratorio2\tdalistacarrocompra.h
+
+1319574948 source:f:\u\laboratorio2\tdalistaprod.c
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"TDAListaProd.h"
+	"recursos.h"
+
+1319470988 f:\u\laboratorio2\tdalistaprod.h
+
+1319575748 f:\u\laboratorio2\carro_compra.h
+	"estructuras.h"
+
+1319227430 f:\u\laboratorio2\tdalistacarrocompra.h
+
+1319575082 source:f:\u\laboratorio2\tdalistacarrocompra.c
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+
+1319600594 source:f:\u\laboratorio2\carro_compra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"main.h"
+	"carro_compra.h"
+	"productos.h"
+	"TDAListaProd.h"
+	"TDAListaCarroCompra.h"
+	"recursos.h"
+	"menu.h"
+

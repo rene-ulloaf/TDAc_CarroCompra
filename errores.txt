@@ -1,0 +1,33 @@
+faltantes:
+- iniciar sesion --> OK
+- agregar usuarios
+- comprar --> OK
+- guardar carro compra --> OK
+- guardar compra ---> OK
+
+
+corregir:
+- al crear revisar que no existe el sku y validar tamaños de los caracteres --> OK
+- revisar el buscar producto carro compra --> OK
+- como hacer cuando un producto se guarde con ñ
+- sacar warning
+- revisar porque algunos prod. quedan desfazados cuando se muestran
+- si no existe las carpetas en donde se guardan los archivos avisar
+
+
+- error cuando borro todos los productos y los veo ---> OK
+- cuando se ingresa con espacios no se guarda en la lista, se debe poner _ por cada espacio en blanco --> OK
+- cambiar de stock a cantidad en estructura carro compra --> OK
+- sacar - por cada producto al seleccionar producto carro compra --> OK
+- cambiar nombre de archivo cuando se compra (carro compra) --> OK
+- validar cuando se compra carro compra --> OK
+- al iniciar sesion y si hay errores ver como mostrar el error --> OK
+- fecha al comprar productos --> OK
+- vaciar productos de la lista al cerrar sesion --> OK
+- si existe algun carro de compra guardado preguntar si quiere subirlo a la lista --> OK
+- hacer funcion pasar a mayuscula una cadena --> OK
+- revisar modificar producto --> OK
+
+probar:
+- con mas de 20 registros para ver si funciona la paginacion --> OK
+- si se ingresan productos con stock negativo
